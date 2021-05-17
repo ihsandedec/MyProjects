@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MuhasebeOtomasyonu", "MuhasebeOtomasyonu\MuhasebeOtomasyonu.vcxproj", "{E9DE28CF-3B8A-40F9-B201-B6A47BB37C08}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9DE28CF-3B8A-40F9-B201-B6A47BB37C08}.Debug|x64.ActiveCfg = Debug|x64
+		{E9DE28CF-3B8A-40F9-B201-B6A47BB37C08}.Debug|x64.Build.0 = Debug|x64
+		{E9DE28CF-3B8A-40F9-B201-B6A47BB37C08}.Debug|x86.ActiveCfg = Debug|Win32
+		{E9DE28CF-3B8A-40F9-B201-B6A47BB37C08}.Debug|x86.Build.0 = Debug|Win32
+		{E9DE28CF-3B8A-40F9-B201-B6A47BB37C08}.Release|x64.ActiveCfg = Release|x64
+		{E9DE28CF-3B8A-40F9-B201-B6A47BB37C08}.Release|x64.Build.0 = Release|x64
+		{E9DE28CF-3B8A-40F9-B201-B6A47BB37C08}.Release|x86.ActiveCfg = Release|Win32
+		{E9DE28CF-3B8A-40F9-B201-B6A47BB37C08}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF2AD5E3-07E1-4BF9-9C2E-78D52BFD163A}
+	EndGlobalSection
+EndGlobal
