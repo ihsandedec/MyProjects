@@ -1,0 +1,15 @@
+C:\Users\ismai\OneDrive\Masaüstü\Proje\KutuphaneOtomasyonu\EntityLayer\bin\Debug\EntityLayer.dll
+C:\Users\ismai\OneDrive\Masaüstü\Proje\KutuphaneOtomasyonu\EntityLayer\bin\Debug\EntityLayer.pdb
+C:\Users\ismai\OneDrive\Masaüstü\Proje\KutuphaneOtomasyonu\EntityLayer\obj\Debug\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\ismai\OneDrive\Masaüstü\Proje\KutuphaneOtomasyonu\EntityLayer\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\ismai\OneDrive\Masaüstü\Proje\KutuphaneOtomasyonu\EntityLayer\obj\Debug\EntityLayer.dll
+C:\Users\ismai\OneDrive\Masaüstü\Proje\KutuphaneOtomasyonu\EntityLayer\obj\Debug\EntityLayer.pdb
+C:\Users\ismai\OneDrive\Masaüstü\Projeİhsan\KutuphaneOtomasyonu\EntityLayer\bin\Debug\EntityLayer.dll
+C:\Users\ismai\OneDrive\Masaüstü\Projeİhsan\KutuphaneOtomasyonu\EntityLayer\bin\Debug\EntityLayer.pdb
+C:\Users\ismai\OneDrive\Masaüstü\Projeİhsan\KutuphaneOtomasyonu\EntityLayer\bin\Debug\System.Data.OleDb.dll
+C:\Users\ismai\OneDrive\Masaüstü\Projeİhsan\KutuphaneOtomasyonu\EntityLayer\bin\Debug\System.Data.OleDb.xml
+C:\Users\ismai\OneDrive\Masaüstü\Projeİhsan\KutuphaneOtomasyonu\EntityLayer\obj\Debug\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\ismai\OneDrive\Masaüstü\Projeİhsan\KutuphaneOtomasyonu\EntityLayer\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\ismai\OneDrive\Masaüstü\Projeİhsan\KutuphaneOtomasyonu\EntityLayer\obj\Debug\EntityLayer.csproj.CopyComplete
+C:\Users\ismai\OneDrive\Masaüstü\Projeİhsan\KutuphaneOtomasyonu\EntityLayer\obj\Debug\EntityLayer.dll
+C:\Users\ismai\OneDrive\Masaüstü\Projeİhsan\KutuphaneOtomasyonu\EntityLayer\obj\Debug\EntityLayer.pdb

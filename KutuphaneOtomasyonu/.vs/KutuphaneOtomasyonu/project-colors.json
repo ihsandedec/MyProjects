@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a0c52f10-ded0-4c58-97c4-b6c672279548": {
+      "ProjectGuid": "a0c52f10-ded0-4c58-97c4-b6c672279548",
+      "DisplayName": "KutuphaneOtomasyonu",
+      "ColorIndex": 0
+    },
+    "4c0a684b-f100-481c-a463-dc1a64e9520d": {
+      "ProjectGuid": "4c0a684b-f100-481c-a463-dc1a64e9520d",
+      "DisplayName": "BussinessLayer",
+      "ColorIndex": 1
+    },
+    "b4efd583-b929-4ea4-8e30-ab6f5378a85a": {
+      "ProjectGuid": "b4efd583-b929-4ea4-8e30-ab6f5378a85a",
+      "DisplayName": "DataAccessLayer",
+      "ColorIndex": 2
+    },
+    "928c85ee-442c-4819-8f5f-999608a78bdd": {
+      "ProjectGuid": "928c85ee-442c-4819-8f5f-999608a78bdd",
+      "DisplayName": "EntityLayer",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
